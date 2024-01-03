@@ -1,6 +1,6 @@
 # 0x00. Python - Hello, World
 # Learning Objectives
-- At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+* At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 # General
 * Why Python programming is awesome
@@ -13,3 +13,4 @@
 * How to use strings
 * What are indexing and slicing in Python
 * What is the official Python coding style and how to check your code with pycodestyle
+
